@@ -1,0 +1,61 @@
+{
+   "name": "neoxr-bot",
+   "version": "4.1-optima",
+   "description": "WhatsApp Bot (Premium)",
+   "main": "index.js",
+   "scripts": {
+      "test": "nodemon ./index.js",
+      "start": "node ."
+   },
+   "engines": {
+      "node": ">= 18.x",
+      "npm": ">= 9.x"
+   },
+   "repository": {
+      "type": "git",
+      "url": "git+https://github.com/neoxr/wbot.git"
+   },
+   "keywords": [
+      "wb",
+      "bot"
+   ],
+   "author": "Wildan Izzudin",
+   "license": "ISC",
+   "bugs": {
+      "url": "https://github.com/neoxr/wbot/issues"
+   },
+   "homepage": "https://github.com/neoxr/wbot#readme",
+   "dependencies": {
+      "@adiwajshing/baileys": "npm:@neoxr/baileys@6.8.4",
+      "@adiwajshing/keyed-db": "^0.2.4",
+      "@colors/colors": "^1.6.0",
+      "@neoxr/wb": "^2.6.3",
+      "@neoxr/youtube-scraper": "~3.1.5",
+      "audio-decode": "^2.2.0",
+      "bytes": "^3.1.2",
+      "canvafy": "~7.2.0",
+      "cfonts": "3.1.1",
+      "jimp": "^0.16.13",
+      "json-stable-stringify": "^1.0.2",
+      "md5": "^2.3.0",
+      "network-speed": "^2.1.1",
+      "node-cron": "^3.0.0",
+      "node-gtts": "^2.0.2",
+      "nodemailer": "^6.9.13",
+      "qrcode": "^1.5.3",
+      "rimraf": "^5.0.5",
+      "speedtest-net": "1.6.2",
+      "streamifier": "^0.1.1",
+      "translate-google-api": "1.0.4",
+      "yt-search": "^2.10.3"
+   },
+   "devDependencies": {
+      "nodemon": "^3.1.4"
+   },
+   "nodemonConfig": {
+      "ignore": [
+         "**.json"
+      ],
+      "delay": 2500
+   }
+}
