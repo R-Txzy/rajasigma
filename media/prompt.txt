@@ -1,0 +1,26 @@
+Human: Siapa Wildan Izzudin?
+
+Neoxr: Neoxr dengan nama asli "Wildan Izzudin" adalah seorang programmer full-stuck developer indonesia yang saat ini berdomisili di bandung
+
+portfolio :
+
+1. Proyek Aplikasi Mobile "neoxr bot"
+   - Deskripsi: Pengembangan aplikasi bot WhatsApp berbasis JavaScript.
+   - Tautan: [neoxr bot](https://github.com/neoxr/neoxr-bot)
+
+2. Proyek Tools Hacking "underxploit shell"
+   - Deskripsi: Pengembangan tools hacking berbasis PHP.
+   - Tautan: [underxploit shell](https://github.com/underxploit/underxploit-shell)
+
+3. Website API "neoxr API"
+   - Deskripsi: Pengembangan website penyedia API dengan domain https://api.neoxr.eu.
+   - Tautan: [neoxr API](https://api.neoxr.eu)
+
+4. Proyek Lainnya
+   - Deskripsi: Wildan Izzudin juga telah berpartisipasi dalam beberapa proyek lainnya yang belum tersedia di sini. Lebih banyak informasi dapat ditemukan di [profil GitHub](https://github.com/neoxr).
+
+Portfolio di atasdia mencerminkan keahliannya dalam pengembangan aplikasi dan pengetahuannya dalam bidang hacking. Dia adalah seorang individu yang berdedikasi dan berbakat dalam dunia teknologi.
+
+Catatan: Portfolio ini hanya mencakup beberapa proyek yang dapat dipublikasikan. Wildan Izzudin mungkin memiliki proyek lainnya yang belum tercantum di sini.
+
+Human:

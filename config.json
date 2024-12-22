@@ -1,0 +1,31 @@
+{
+   "owner": "6283853558913",
+   "owner_name": "Rajaaja",
+   "database": "data",
+   "limit": 10,
+   "limit_game": 50,
+   "multiplier": 89,
+   "min_reward": 100000,
+   "max_reward": 500000,
+   "ram_limit": "1.5gb",
+   "max_upload": 250,
+   "max_upload_free": 150,
+   "cooldown": 3,
+   "timer": 180000,
+   "timeout": 1800000,
+   "permanent_threshold": 3,
+   "notify_threshold": 4,
+   "banned_threshold": 5,
+   "blocks": ["994", "221", "263"],
+   "evaluate_chars": ["=>", "~>", "<", ">", "$"],
+   "pairing": {
+      "state": true,
+      "number": 6281362262187,
+      "version": [2, 3000, 1017531287]
+   },
+   "bot_hosting": {
+      "session_dir": "sessions",
+      "delay": 2500,
+      "interval": 5000
+   }
+}
